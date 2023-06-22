@@ -2,10 +2,10 @@
 ChatGPT 結合 python gui
 1. 安裝版本至少 3.10.8 的 python 
 2. 記得設 path 系統環境變數 Path 建議直接設定在系統變數，不要設在個人
-C:\Users\aellnchien\Python\Python310\
-C:\Users\aellnchien\Python\Python310\Scripts\
-3. 接著使用右鍵系統管理員執行 install.bat 安裝 package
-4. 按 Run.bat 來跑程式
+   C:\Users\aellnchien\Python\Python310\
+   C:\Users\aellnchien\Python\Python310\Scripts\
+4. 接著使用右鍵系統管理員執行 install.bat 安裝 package
+5. 按 Run.bat 來跑程式
 
 ### API 金鑰申請
 網址 : https://platform.openai.com/account/api-keys
